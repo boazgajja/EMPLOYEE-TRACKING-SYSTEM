@@ -19,4 +19,4 @@ you can see in the above image is saying that the time at login is 10:34 and 14 
 as above image after every logout it will show the time that he has worked so that they can know how much time left to do work .
 if he or she will work for more than 8 hours also it will pay only 8 hours only 
 
-<h2>Further extent of this project is to create GUI</h2>
+<h2>Further extent of this project is to create GUI by GT</h2>
